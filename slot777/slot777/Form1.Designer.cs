@@ -103,14 +103,6 @@
         private System.Windows.Forms.PictureBox pictureBox3;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Timer timer1;
-=======
-            this.components = new System.ComponentModel.Container();
-            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
-        }
 
-        #endregion
->>>>>>> parent of 4708ac1 (ボタン追加（仮）)
     }
 }
